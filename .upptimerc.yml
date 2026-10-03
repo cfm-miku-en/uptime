@@ -19,7 +19,6 @@ sites:
 
 status-website:
   cname: status.mikuuu.xyz
-  baseUrl: /
   name: deltalazer status
   introTitle: deltalazer server status
   introMessage: Live status of the deltalazer servers and the beatmap mirrors they use.
