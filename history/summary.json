@@ -58,18 +58,20 @@
     "url": "https://catboy.best/api/v2/s/1",
     "icon": "https://icons.duckduckgo.com/ip3/catboy.best.ico",
     "slug": "beatmap-downloads-catboy-best",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 232,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "86.93%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 270,
+    "timeDay": 238,
     "timeWeek": 247,
-    "timeMonth": 271,
-    "timeYear": 271,
-    "dailyMinutesDown": {}
+    "timeMonth": 270,
+    "timeYear": 270,
+    "dailyMinutesDown": {
+      "2026-10-31": 188
+    }
   },
   {
     "name": "Beatmap downloads (osu.direct)",
