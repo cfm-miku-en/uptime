@@ -58,15 +58,15 @@
     "url": "https://catboy.best/api/v2/s/1",
     "icon": "https://icons.duckduckgo.com/ip3/catboy.best.ico",
     "slug": "beatmap-downloads-catboy-best",
-    "status": "up",
-    "uptime": "95.76%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.81%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "87.35%",
     "uptimeMonth": "93.80%",
-    "uptimeYear": "95.76%",
+    "uptimeYear": "95.81%",
     "time": 249,
-    "timeDay": 274,
-    "timeWeek": 224,
+    "timeDay": 252,
+    "timeWeek": 225,
     "timeMonth": 235,
     "timeYear": 249,
     "dailyMinutesDown": {
@@ -79,7 +79,8 @@
       "2026-11-07": 49,
       "2026-11-11": 461,
       "2026-11-12": 653,
-      "2026-11-13": 161
+      "2026-11-13": 161,
+      "2026-11-17": 0
     }
   },
   {
